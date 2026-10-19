@@ -1,1 +1,3 @@
-# ali8646.github.io
+# Hi! I'm Ali
+
+This site is currently a WIP. Check back later :)
